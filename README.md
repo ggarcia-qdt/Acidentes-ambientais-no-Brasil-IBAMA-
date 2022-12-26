@@ -10,7 +10,7 @@ O presente projeto procurou explorar esta base de dados para gerar interpretaç�
 
 #### Fonte dos dados
 
-Os dados foram recolhidos junto ao Sistema Nacional de Emergências Ambientais (Siema) - https://dados.gov.br/dataset/siema-comunicado-de-acidente-ambiental (download em 09/11/2022).
+Os dados foram recolhidos junto ao Sistema Nacional de Emergências Ambientais (Siema) - https://dados.gov.br/dados/conjuntos-dados/siema-comunicado-de-acidente-ambiental (download em 09/11/2022).
 
 ## Principais observações
 
