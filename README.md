@@ -1,6 +1,6 @@
 # Acidentes-ambientais-no-Brasil-IBAMA-
 
-# <font color='green' style='font-size: 30px;'>Análise exploratória dos registros de acidentes ambientais reportados ao IBAMA</font>
+# <font color='green' style='font-size: 30px;'>Acidentes ambientais no Brasil: análise exploratória dos registros do IBAMA</font>
 
 ## Descrição e objetivos
 
